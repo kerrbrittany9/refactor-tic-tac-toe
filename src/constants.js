@@ -1,0 +1,5 @@
+export default {
+  CHANGE_HISTORY: "CHANGE_HISTORY",
+  JUMP: "JUMP",
+  JUMP_STEP: JUMP_STEP
+}
